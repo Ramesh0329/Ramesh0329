@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏼‍💻 I'm currently doing Master's in Computer Science<br>🌱 I'm learning DSA with Java<br>💬 Reach me  : rkoduru29@gmail.com<br><br>
+👨🏼‍💻 I completed Master's in Computer Science<br>🌱 I'm Actively looking for new Opportunities<br>💬 Reach me  : rkoduru29@gmail.com<br><br>
 
 
 ## 🌐 Socials:
