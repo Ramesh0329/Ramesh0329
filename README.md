@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0f0f,50:1a1a2e,100:16213e&text=RAMESH%20KODURU&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20LLMOps%20%7C%20Distributed%20AI%20%7C%20GenAI%20Infrastructure&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
